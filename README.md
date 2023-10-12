@@ -1,4 +1,4 @@
-* live site: https://6527b8b249182419d6cdbe2b--euphonious-seahorse-9aebce.netlify.app/
+* live site: https://euphonious-seahorse-9aebce.netlify.app/
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
