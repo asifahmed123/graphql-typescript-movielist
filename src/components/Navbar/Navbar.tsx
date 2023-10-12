@@ -3,7 +3,7 @@ import {Link} from 'react-router-dom';
 const Navbar = () => {
   return (
     <div>
-      <div className="navbar bg-base-100 px-14">
+      <div className="navbar bg-pink-200 px-14">
         <div className="navbar-start">
           <div className="dropdown">
             <label tabIndex={0} className="btn btn-ghost lg:hidden">
@@ -45,7 +45,7 @@ const Navbar = () => {
               </li>
             </ul>
           </div>
-          <a className="text-cyan-700 font-bold normal-case text-xl">MoviesHub</a>
+          <a className="text-pink-600 font-bold normal-case text-xl">MoviesHub</a>
         </div>
         <div className="navbar-center hidden lg:flex">
           <ul className="menu menu-horizontal px-1">
